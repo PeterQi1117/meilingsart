@@ -1,0 +1,131 @@
+{
+    "descriptions" :
+    [
+        {
+            "title" : "Huggy Chick",
+            "description" : "Who knew hugging lifts your serotonin levels and protects you against sickness, disease, loneliness, depression, anxiety and stress?  Huggy Chick, that’s who!  She only eats candy corn which she loves to share as much as hugs.",
+            "orientation" : "h",
+            "backgroundColors" : ["#ffffff", "#fff603", "#f21821"],
+            "border" : ["6", "#92d050"]
+        },
+        {
+            "title" : "Dancing Cranes",
+            "description" : "In China the crane symbolizes happiness and eternal youth and they have always been important symbols in ancient and modern cultures.  In Greek mythology the Sun God would disguise himself as a Crane to visit his mortal subjects on earth.  This acrylic painting was my first attempt at trying to capture their elegance.  I’m looking forward to trying to capture the essence of their beauty in oil.",
+            "orientation" : "h",
+            "backgroundColors" : ["#a7e4f3", "#139649", "#f3f3f3"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Falling into Starry Night",
+            "description" : "The first time my eyes took in Starry Night I fell under its haunting trance.  Vincent van Gogh’s masterpiece oil on canvas was painted in June, 1889.   In it he captured the view from the east-facing window of his asylum room at Saint-Rémy-de-Provence in a way that blends the real and unreal with every swirl.",
+            "orientation" : "h",
+            "backgroundColors" : ["#fbf889", "#30496c", "#809fac"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Gallop",
+            "description" : "I love trying to capture the beauty of horses.  While an oil on canvas like my Happy on Hills of Gold is a long term project, I sometimes like drawing them in pencil like Gallop.  You can’t help but marvel at the wonders of nature and evolution watching a galloping horse.",
+            "orientation" : "h",
+            "backgroundColors" : ["#ada9ab", "#c1c0c0", "#f6f2f1"],
+            "border" : ["6", "#833c0b"]
+        },
+        {
+            "title" : "Graceful Spirit",
+            "description" : "Graceful Spirit, is inspired by one of my favorite animals, the bright eyed, fleet footed Red Fox.  They should have started a class action defamation of character suite when The History of Reynard the Fox was written in 1148.  Reynard, a red fox trickster with human characteristics, went on adventures which always involved tricking and cheating others.  Ever since, red foxes have been branded thieves who are tricky and cunning.   So unfair!",
+            "orientation" : "v",
+            "backgroundColors" : ["#e0fdfd", "#76bf9c", "#d76853"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Happy on Hills of Gold",
+            "description" : "I love trying to capture the beauty of horses and nature as I tried to do when I painted this oil on canvas when I was nine.  I think I have a natural attraction to being around horses, seeing or being with them just makes me feel good.",
+            "orientation" : "h",
+            "backgroundColors" : ["#6fc0e4", "#66871d", "#a0402b"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Changing Chameleon",
+            "description" : "Chameleons are amazing creatures.  They don’t change their colors by using pigments within their skin cells.  Instead, the make structural changes which affect how light reflects off their skin.  I think it would be neat to paint something which changed colors the same way.",
+            "orientation" : "h",
+            "backgroundColors" : ["#4cc5e1", "#a0cf78", "#e570bb"],
+            "border" : ["6", "#ffd865"]
+        },
+        {
+            "title" : "Koi in a Pond",
+            "description" : " Koi are very important part of Chinese mythology.  The word for \"fish\" is “yu” which is a homophone for abundance and affluence.  But I like their symbolism of strength, Koi are upstream swimming fish.  Going against the current takes strength, perseverance, ambition and luck, all things which the Koi symbolize.",
+            "orientation" : "h",
+            "backgroundColors" : ["#e1d385", "#e11744", "#a19eb9"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Lonely Crane",
+            "description" : "In China the crane symbolizes happiness and eternal youth and I know I will always be trying to capture the essence of their beauty.  I penciled this after my first attempt at trying to capture their elegance in my Dancing Cranes painting.",
+            "orientation" : "v",
+            "backgroundColors" : ["#ada9ab", "#c1c0c0", "#f6f2f1"],
+            "border" : ["6", "#7f6000"]
+        },
+        {
+            "title" : "Merry Christmas",
+            "description" : "I painted this in 2015 after I’d connected the dots.  I mean I might have been a little kid, but after running into multiple Santa Clauses on Christmas Eve, I figured out the grift.",
+            "orientation" : "h",
+            "backgroundColors" : ["#f4f3f3", "#d47990", "#87b3e4"],
+            "border" : ["6", "#538135"]
+        },
+        {
+            "title" : "Pokemon",
+            "description" : "",
+            "orientation" : "v",
+            "backgroundColors" : ["#9dce7a", "#f7ee07", "#e5191f"],
+            "border" : ["6", "#e1efd8"]
+        },
+        {
+            "title" : "Spirit of a Tree",
+            "description" : "I painted this in the fall of 2015 and I was inspired by the Dutch painter Vincent van Gogh’s oil on canvas works of Daubigny’s Garden, all three of which he painted in 1890.  I like trying to capture nature’s pictures in my paintings.  I wanted to convey the impression of distance and feeling of unlimited space.",
+            "orientation" : "v",
+            "backgroundColors" : ["#94adb2", "#ed6352", "#e5c872"],
+            "border" : ["6", "#fef2cc"]
+        },
+        {
+            "title" : "Still Life",
+            "description" : "I painted this in 2016 and I found out that capturing inanimate objects, with only color palettes, composition of objects and negative space is really hard.  It takes lots of patience to turn an ordinary scene into a still life.",
+            "orientation" : "v",
+            "backgroundColors" : ["#b2a4c1", "#65a720", "#211946"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "Sunset",
+            "description" : "Sunset’s fantastic colors are caused by scattering, sun light hitting atmospheric water droplets, dust, and, over the ocean, teeny tiny suspended salt crystals.  When sun light hits these particles the light scatters into different wavelengths and those fantastic sunset colors result. While the scientific backstory is fascinating, sunsets capture a calming, beautiful moment of our day.  This was my first attempt at trying to capture the awe of the setting sun.  Although it’ll take longer than posting an Instagram pic, I’m looking forward to painting more sunsets as I learn more advanced techniques from my art teacher.",
+            "orientation" : "h",
+            "backgroundColors" : ["#5c496d", " #e24170", "#f3c12d"],
+            "border" : ["10", "#0000"]
+        },
+        {
+            "title" : "Bath Time",
+            "description" : "Sometimes, when I’m doing my homework, I’ll make little sketches in the margins of my paper.  This one was inspired by my little dog DiDi.  He is my sweet little cutie pie!  In Chinese DiDi means “little brother.”  In Chinese mythology, dogs and humans are friends who share life's ups and downs.  I couldn’t agree more! ",
+            "orientation" : "h",
+            "backgroundColors" : ["#ffffff", " #9ed7e9", "#c7eab6"],
+            "border" : ["6", "#c55a11"]
+        },
+        {
+            "title" : "Fetch",
+            "description" : "My cute little DiDi, loves to chase the ball.  He’ll bring it back, drop it off at my feet, and bark for me to throw it again.  In Chinese DiDi means “little brother.”  In Chinese mythology, dogs and humans are friends who share life's ups and downs. But it is not just mythology, it’s for realsies!",
+            "orientation" : "h",
+            "backgroundColors" : ["#ecffff", "#697791", "#f1fe0a"],
+            "border" : ["1", "#0000"]
+        },
+        {
+            "title" : "King of the Beasts",
+            "description" : "Sometimes, when I’m doing my homework, I’ll make little sketches in the margins of my paper.  This one was inspired by the Chinese Zodiac sign for Tigers.  I love Tigers and they have so much symbolism in Chinese Culture.  While the Lion is called the King of all Beasts in Western cultures, in Chinese culture we call the Tiger the King of all Beasts.  But, there’s a very good reason for this.  The pattern on the tiger’s forehead is very similar to the Chinese character 王 which means \"king\", so Chinese people believe the tiger must be the natural-born king and so, is a revered symbol of bravery and power.",
+            "orientation" : "h",
+            "backgroundColors" : ["#d1d4d6", "#dab7b0", "#9e7a88"],
+            "border" : ["6", "#d0cece"]
+        },
+        {
+            "title" : "Still Life",
+            "description" : "Whenever I’m working in the Still Life genre, I’m inspired by the Dutch painter, Vincent van Gogh, especially his three 1890 oil on canvas works of Daubigny’s Garden.  I painted this oil on canvas in the fall of 2018.  I moved the arrangement of the flower, vase, fruit, and cloth for different compositions and I selected this because I liked the way the different textures and shadows gave the impression of both distance and space. ",
+            "orientation" : "v",
+            "backgroundColors" : ["#3e5b1c", "#1a0e44", "#bfe5f0"],
+            "border" : ["1", "#0000"]
+        }
+    ]
+}

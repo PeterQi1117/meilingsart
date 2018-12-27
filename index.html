@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Meiling's Art">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Meiling's Art</title>
+    <link rel="stylesheet" href="style.css">
+    <meta name="theme-color" content="#3ccbe6">
+    <!-- <script>
+        if (window.innerWidth < 1200 || screen.width < 1200) {
+            document.location="../mobile/index_mobile.html" ;
+        }
+    </script> -->
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><h1 class="title">MEI LING'S ART</h1></a>
+        <!-- <div class="menu">
+            <i class="material-icons md-48" onclick="">menu</i>
+        </div> -->
+        <nav>
+            <a href="index.html"><span class="current">CARDS</span></a>
+            <a href="comics.html"><span>COMICS</span></a>
+            <a href="about.html"><span>ABOUT</span></a>
+        </nav>
+    </header>
+    <div class="gallery-container">
+
+        <div class="gallery">
+            <div class="thumbnails"></div>
+        </div>
+        <div class="card-container-background"></div>
+        <div class="card-container">
+            <div class="exit-background"></div>
+            <div class="card">
+                <input type="checkbox" class="c-toggle" id="c">
+                <label for="c" class="animation-container">
+                    <div class="card-background"></div>
+                    <div class="flip">
+                        <input type="checkbox" class="r-toggle" id="r">
+                        <div class="raise">
+                            <div class="top">
+                                <!-- <div class="outer-image-box"> -->
+                                    <div class="image-box"></div>
+                                <!-- </div> -->
+                                <!-- <img src="" alt=""> -->
+                            </div>
+                            <div class="bottom">
+                                <div class="back-text">
+                                    <p class="card-title">
+                                        <span></span><br><br>
+                                        <span><br>Artwork by Mei Ling Jaeger<br><br></span>
+                                    </p>
+                                    <p>
+                                        <span class="description"></span>
+                                        <br><br>
+                                        Dedicated to my mentor, Artist Nilda Comas.  Even though she is always busy at her studio in Pietrasanta, Italy or here in Fort Lauderdale, she still finds time to teach me so much and she’s always so encouraging! I am so grateful to you Nilda.  You can visit her Legacy Art Studio at <a href="http://nildacomas.com/sculpture_workshop_classes/" target="_blank">NildaComas.com</a> and visit my site by scanning this QR code or visiting <a href="http://www.meilingsart.com/" target="_blank">www.meilingsart.com.</a>
+                                        <br><br>
+                                        © Mei Ling Jaeger                                        <img src="cards/images/QRT.png" alt="" style="backface-visibility: hidden; float: right;margin: 0 20px 40px 0;">
+                                        <br><br>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </label>
+            </div>
+            <div class="card-buttons">
+                <div class="arrows">
+                    <div class="arrows-background"></div>
+                    <i class="material-icons md-48" onclick="changeCard(0)">keyboard_arrow_up</i>
+                    <i class="material-icons md-48" onclick="changeCard(1)">keyboard_arrow_down</i>
+                </div>
+                <!-- <div class="close">
+                    <i class="material-icons" onclick="hideCard()">close</i>
+                </div> -->
+                <div class="rotate">
+                    <div class="rotate-background"></div>
+                    <i class="material-icons" onclick="rotateCard()" onmouseover="raiseCard()" onmouseout="unraiseCard()">360</i>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="script.js" charset="utf-8"></script>
+
+<link rel="stylesheet" href="card.css">
+<link rel="stylesheet" href="cardtransitions.css">
+
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="icon" href="favicon.ico">
+
+</html>

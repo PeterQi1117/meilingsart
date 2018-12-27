@@ -1,0 +1,23 @@
+
+.comics {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.panel {
+    margin: 10px;
+    width: 300px;
+}
+
+@media screen and (min-width: 1200px) {
+    .comics {
+        max-width: 80vw;
+        margin: auto;
+    }
+
+    .panel {
+        margin: 5px;
+        max-width: 10vw;
+    }
+}

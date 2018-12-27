@@ -1,0 +1,40 @@
+article {
+    text-align: center;
+}
+
+.picture {
+    max-width: 300px;
+    margin: 2px;
+}
+
+#blurb {
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 90%;
+    color: #222;
+    font-family: 'Comfortaa', "Arial";
+    line-height: 2;
+    font-size: 12px;
+}
+
+@media screen and (min-width: 1200px) {
+    #blurb::selection, #blurb br::selection, #blurb a::selection {
+        color: white;
+        background: black;
+    }
+
+    #blurb {
+        padding: 20px;
+        margin: 0px auto 0px;
+        max-width: 50vw;
+        color: #222;
+        font-family: 'Comfortaa', "Arial";
+        line-height: 2;
+        font-size: 12px;
+    }
+
+    .picture {
+        max-width: 55vh;
+        max-height: 12vw;
+    }
+}

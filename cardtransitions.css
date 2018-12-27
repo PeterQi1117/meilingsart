@@ -1,0 +1,59 @@
+.card * {
+    transform-style: preserve-3d;
+    will-change: transform;
+}
+
+.top, .bottom, .flip, .animation-container {
+    transition: all 0.800s ease;
+    transform-origin: 0 0;
+}
+
+.raise {
+    transition: all 0.500s ease;
+    transform-origin: center;
+}
+
+.animation-container {
+    transition: all 0.06s ease-out;
+    transform-origin: center;
+}
+
+.top {
+    transform: rotateX(4deg);
+}
+
+.bottom {
+    transform: rotateX(-4deg);
+}
+
+.flip {
+    transform: translateX(0%) rotateY(0deg);
+}
+
+.c-toggle:checked+label .flip {
+    transform: translateX(100%) rotateY(-180deg);
+}
+
+.v .flip {
+    transform: rotateZ(-90deg) translateY(16%) translateX(-90%);
+}
+
+.v .c-toggle:checked+label .flip {
+    transform: rotateY(-180deg) rotateZ(-90deg) translateY(-116%) translateX(-90%);
+}
+
+.c-toggle:not(:checked)+label .r-toggle:checked+.raise {
+    transform: rotateY(-15deg) rotateX(2deg)  translateZ(80px);
+}
+
+.c-toggle:checked+label .r-toggle:checked+.raise {
+    transform: rotateY(15deg) rotateX(-2deg)  translateZ(-80px);
+}
+
+.v .c-toggle:not(:checked)+label .r-toggle:checked+.raise {
+    transform: rotateX(15deg) rotateY(2deg)  translateZ(80px);
+}
+
+.v .c-toggle:checked+label .r-toggle:checked+.raise {
+    transform: rotateX(-15deg) rotateY(-2deg)  translateZ(-80px);
+}
