@@ -145,7 +145,7 @@ function setCard() {
     img.classList.remove(img.classList[0]);
     img.classList.remove(img.classList[1]);
     // img.classList.add(cardData.descriptions[displayedCardIndex].orientation);
-    img.style.border = cardData.descriptions[displayedCardIndex].border[0] + 'px solid ' + cardData.descriptions[displayedCardIndex].border[1];
+    img.style.border = cardData.descriptions[displayedCardIndex].border[0] + 'px double' + cardData.descriptions[displayedCardIndex].border[1];
 
     if (cardTop.querySelector('img')) {
         cardTop.querySelector('.top .image-box').removeChild(cardTop.querySelector('img'));
