@@ -157,8 +157,8 @@ nav span:hover, nav .current {
 
     .thumbnails {
         margin: auto;
-        width: 66%;
-        height: 60%;
+        width: 72%;
+        height: 62%;
         /* background: #f0f0f0; */
         display: flex;
         flex-direction: row;
@@ -169,8 +169,8 @@ nav span:hover, nav .current {
 
     .thumbnail {
         position: relative;
-        max-width: 22%;
-        max-height: 22%;
+        max-width: 26%;
+        max-height: 26%;
         margin: 1.5%;
         transition: all 0.3s;
         box-shadow: 2px 1px 10px rgba(0, 0, 0, 0.05);
@@ -180,8 +180,8 @@ nav span:hover, nav .current {
     .thumbnail:nth-child(even) {
         top: -0.5%;
         left: -0.5%;
-        max-width: 21%;
-        max-height: 21%;
+        max-width: 25%;
+        max-height: 25%;
     }
 
     .thumbnail:hover {
