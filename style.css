@@ -158,7 +158,7 @@ nav span:hover, nav .current {
     .thumbnails {
         margin: auto;
         width: 72%;
-        height: 62%;
+        height: 58%;
         /* background: #f0f0f0; */
         display: flex;
         flex-direction: row;
